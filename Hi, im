@@ -1,10 +1,2891 @@
-- 👋 Hi, I’m @Netipclsjf
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div><div><div></div></div></div><!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" prefix="og: https://ogp.me/ns#" class=" csstransforms csstransforms3d csstransitions">
 
-<!---
-Netipclsjf/Netipclsjf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<head>
+    <meta charset="UTF-8" />
+    <link rel="profile" href="https://gmpg.org/xfn/11" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Consulta tu cédula profesional electrónica - Consultar mi Cédula Profesional Electrónica</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+    <link rel="stylesheet" href="https://cedulaprofesionalsep.online/wp-content/cache/min/1/aa8090913e1317da7a42acaa5fab16ea.css" as="style" onload="this.onload=null;this.rel='stylesheet'" data-minify="1" />
+    <style id="rocket-critical-css">
+        .pt-cv-wrapper a {
+            background-color: transparent
+        }
+
+        .pt-cv-wrapper img {
+            border: 0
+        }
+
+        .pt-cv-wrapper img {
+            vertical-align: middle
+        }
+
+        .pt-cv-wrapper .row {
+            margin-left: -15px;
+            margin-right: -15px
+        }
+
+        .pt-cv-wrapper .col-md-4,
+        .pt-cv-wrapper .col-sm-6,
+        .pt-cv-wrapper .col-xs-12 {
+            position: relative;
+            min-height: 1px;
+            padding-left: 15px;
+            padding-right: 15px
+        }
+
+        .pt-cv-wrapper .col-xs-12 {
+            float: left
+        }
+
+        .pt-cv-wrapper .col-xs-12 {
+            width: 100%
+        }
+
+        @media (min-width:768px) {
+            .pt-cv-wrapper .col-sm-6 {
+                float: left
+            }
+
+            .pt-cv-wrapper .col-sm-6 {
+                width: 50%
+            }
+        }
+
+        @media (min-width:992px) {
+            .pt-cv-wrapper .col-md-4 {
+                float: left
+            }
+
+            .pt-cv-wrapper .col-md-4 {
+                width: 33.33333333%
+            }
+        }
+
+        .pt-cv-wrapper .carousel-inner>.item {
+            display: none;
+            position: relative
+        }
+
+        @media all and (transform-3d),
+        (-webkit-transform-3d) {
+            .pt-cv-wrapper .carousel-inner>.item {
+                -webkit-backface-visibility: hidden;
+                backface-visibility: hidden;
+                -webkit-perspective: 1000px;
+                perspective: 1000px
+            }
+        }
+
+        .pt-cv-wrapper .pt-cv-carousel-caption {
+            position: absolute;
+            left: 15%;
+            right: 15%;
+            bottom: 20px;
+            z-index: 10;
+            padding-top: 20px;
+            padding-bottom: 20px;
+            color: #fff;
+            text-align: center;
+            text-shadow: 0 1px 2px rgba(0, 0, 0, .6)
+        }
+
+        @media screen and (min-width:768px) {
+            .pt-cv-wrapper .pt-cv-carousel-caption {
+                left: 20%;
+                right: 20%;
+                padding-bottom: 30px
+            }
+        }
+
+        .pt-cv-wrapper .row:after,
+        .pt-cv-wrapper .row:before {
+            content: " ";
+            display: table
+        }
+
+        .pt-cv-wrapper .row:after {
+            clear: both
+        }
+
+        .pt-cv-view * {
+            -webkit-box-sizing: border-box !important;
+            -moz-box-sizing: border-box !important;
+            box-sizing: border-box !important
+        }
+
+        @media (min-width:992px) {
+            .pt-cv-colsys [data-cvc="3"] .col-md-4:nth-child(3n+1) {
+                clear: left !important
+            }
+        }
+
+        @media (min-width:768px) and (max-width:991px) {
+            .pt-cv-colsys .col-sm-6:nth-child(2n+1) {
+                clear: left !important
+            }
+        }
+
+        .pt-cv-colsys .pt-cv-content-item {
+            flex: none;
+            max-width: initial
+        }
+
+        .pt-cv-wrapper .row {
+            display: block
+        }
+
+        .pt-cv-view a {
+            text-decoration: none !important;
+            outline: 0 !important;
+            font-style: normal
+        }
+
+        .pt-cv-content-item {
+            padding-bottom: 15px;
+            position: relative;
+            overflow: hidden
+        }
+
+        .pt-cv-view .pt-cv-content-item>* {
+            margin-bottom: 10px
+        }
+
+        .pt-cv-title {
+            margin-top: 0 !important
+        }
+
+        .pt-cv-view .pt-cv-title {
+            margin-bottom: 10px
+        }
+
+        .pt-cv-title a {
+            font-weight: 600;
+            border-bottom: none
+        }
+
+        .pt-cv-thumbnail {
+            height: auto;
+            max-width: 100% !important;
+            margin-top: 0 !important;
+            margin-bottom: 10px !important;
+            min-width: inherit !important
+        }
+
+        .pt-cv-scrollable .pt-cv-carousel-caption {
+            text-align: left;
+            bottom: 15px;
+            padding: 10px
+        }
+
+        .pt-cv-scrollable .pt-cv-carousel-caption * {
+            text-shadow: none
+        }
+
+        .pt-cv-scrollable .pt-cv-title {
+            padding-bottom: 0
+        }
+
+        .pt-cv-scrollable .pt-cv-carousel-caption {
+            margin-bottom: 10px !important
+        }
+
+        .pt-cv-scrollable .pt-cv-thumbnail {
+            width: 100%
+        }
+
+        .pt-cv-scrollable .pt-cv-carousel .item {
+            height: auto;
+            margin: auto;
+            min-height: 0;
+            max-height: none;
+            line-height: normal
+        }
+
+        .pt-cv-scrollable .pt-cv-cap-w-img {
+            background: rgba(0, 0, 0, .6);
+            text-shadow: 0 1px 1px #000;
+            left: 15px;
+            right: 15px
+        }
+
+        .pt-cv-cap-w-img * {
+            color: #fff
+        }
+
+        .pt-cv-cap-w-img .pt-cv-title a {
+            color: #fff !important
+        }
+
+        .pt-cv-wrapper [class*=pt-cv-] a {
+            box-shadow: none
+        }
+
+        #cvpboxOverlay,
+        #cvpboxWrapper,
+        #cvpcolorbox {
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 9999
+        }
+
+        #cvpboxWrapper {
+            max-width: none
+        }
+
+        #cvpboxOverlay {
+            position: fixed;
+            width: 100%;
+            height: 100%
+        }
+
+        #cvpboxBottomLeft,
+        #cvpboxMiddleLeft {
+            clear: left
+        }
+
+        #cvpboxContent {
+            position: relative
+        }
+
+        #cvpboxTitle {
+            margin: 0
+        }
+
+        #cvpboxLoadingGraphic,
+        #cvpboxLoadingOverlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%
+        }
+
+        #cvpboxContent,
+        #cvpcolorbox {
+            box-sizing: content-box;
+            -moz-box-sizing: content-box;
+            -webkit-box-sizing: content-box
+        }
+
+        #cvpboxOverlay {
+            background: #000
+        }
+
+        #cvpcolorbox {
+            outline: 0
+        }
+
+        #cvpboxContent {
+            margin: 20px
+        }
+
+        #cvpboxTitle {
+            position: absolute;
+            left: 4px;
+            color: #ccc
+        }
+
+        #cvpboxCurrent {
+            position: absolute;
+            top: -20px;
+            right: 20px;
+            color: #ccc
+        }
+
+        #cvpboxLoadingGraphic {
+            background: url(data:image/gif;base64,R0lGODlhDwAPALMPAMrKygwMDJOTkz09PZWVla+vr3p6euTk5M7OzuXl5TMzMwAAAJmZmWZmZszMzP///yH/C05FVFNDQVBFMi4wAwEAAAAh+QQFCgAPACwAAAAADwAPAAAEQvDJaZaZOIcV8iQK8VRX4iTYoAwZ4iCYoAjZ4RxejhVNoT+mRGP4cyF4Pp0N98sBGIBMEMOotl6YZ3S61Bmbkm4mAgAh+QQFCgAPACwAAAAADQANAAAENPDJSRSZeA418itN8QiK8BiLITVsFiyBBIoYqnoewAD4xPw9iY4XLGYSjkQR4UAUD45DLwIAIfkEBQoADwAsAAAAAA8ACQAABC/wyVlamTi3nSdgwFNdhEJgTJoNyoB9ISYoQmdjiZPcj7EYCAeCF1gEDo4Dz2eIAAAh+QQFCgAPACwCAAAADQANAAAEM/DJBxiYeLKdX3IJZT1FU0iIg2RNKx3OkZVnZ98ToRD4MyiDnkAh6BkNC0MvsAj0kMpHBAAh+QQFCgAPACwGAAAACQAPAAAEMDC59KpFDll73HkAA2wVY5KgiK5b0RRoI6MuzG6EQqCDMlSGheEhUAgqgUUAFRySIgAh+QQFCgAPACwCAAIADQANAAAEM/DJKZNLND/kkKaHc3xk+QAMYDKsiaqmZCxGVjSFFCxB1vwy2oOgIDxuucxAMTAJFAJNBAAh+QQFCgAPACwAAAYADwAJAAAEMNAs86q1yaWwwv2Ig0jUZx3OYa4XoRAfwADXoAwfo1+CIjyFRuEho60aSNYlOPxEAAAh+QQFCgAPACwAAAIADQANAAAENPA9s4y8+IUVcqaWJ4qEQozSoAzoIyhCK2NFU2SJk0hNnyEOhKR2AzAAj4Pj4GE4W0bkJQIAOw==) center center no-repeat
+        }
+
+        #cvpboxNext,
+        #cvpboxPrevious,
+        #cvpboxSlideshow {
+            border: 0;
+            padding: 0;
+            margin: 0;
+            overflow: visible;
+            width: auto;
+            background: 0
+        }
+
+        #cvpboxSlideshow {
+            position: absolute;
+            top: -20px;
+            right: 90px;
+            color: #fff
+        }
+
+        #cvpboxNext,
+        #cvpboxPrevious {
+            position: absolute;
+            top: 50%;
+            margin-top: -32px;
+            width: 45px;
+            height: 60px;
+            text-indent: -9999px;
+            opacity: .5
+        }
+
+        #cvpboxNext,
+        #cvpboxPrevious {
+            background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAA8CAMAAACac46aAAAAQlBMVEUAAADy8vL///////////////////8AAAD///9TU1Pj4+NFRUUxMTENDQ0YGBi3t7ciIiLR0dHCwsJmZmaFhYWtra08Lf1PAAAAB3RSTlMA+8dCb5k2bKuPKAAAAhFJREFUWMPt2N2OgjAQhuEWVxl+Cqh4/7e61Ow6wqx903qwMYEDY8bYp2Lb+YKrcy6XuvKG2uEd/kA4vANPcyiF+7Yph4ezjOEFfDhWItXxsIHVFWkATrmylpVdVN+2frGV3rhp2aXdKP8Bfy3lZghhaEaRLwtHF2QH7lp+uP4xZOMf8sol2ZEb5WENn8T3tSpeTj+wVgRlx65Iv4arZbhh7mKhm4e6kWoNT8/f7fLgcJHNrBU+yKWu53u5EZnr+iIHhbez9h3A5Cp8jJUu/pj7S+SPCoNsYHQVrmSKi0o/naRSGGQDo6uw9yG+7/zvmMH7LcyyQ7cIZtmxW3KrY7VNys6445N71XrW4mJZYXZ5O6XkPgGDywcIyCk45fKRmZTbPgHfUi43iRzZsVvQFk2DtLJjtyQIsOzQfR19vH8ZfVh24BalTJYVDuCWwTYYtJPCsOXeh6+i1y0oDMsvB2bX/McgZ8DgWphlDvTsWphl3sfsWtjKU/nJxa7CLPNZnXbHzVCw5Uq7k3VDAgaZ+jG4EH26hMwJhF2FQS7OXM2Te1FX4aR8HjJTJrsWZplzNbsWZplhdi3MMt9qdi3MMi8udhmOA6s85W2nXsTOmmE7a5/5RGAY0Y0wym2ffWSO5EaYZHW5SaisLsNWVje3LYZRXYatHN28IKCyugxbWd3czBXm6Z3HxuEDn1fv8A7/F/wNTMGxgbCRpgYAAAAASUVORK5CYII=);
+            background-repeat: no-repeat
+        }
+
+        #cvpboxPrevious {
+            left: 5px;
+            background-position: top left
+        }
+
+        #cvpboxNext {
+            right: 5px;
+            background-position: top right
+        }
+
+        .pt-cv-scrollable .pt-cv-content-item {
+            padding-bottom: 0;
+            margin-bottom: 10px;
+            z-index: 98
+        }
+
+        .pt-cv-scrollable .pt-cv-title {
+            margin-bottom: 10px
+        }
+
+        .pt-cv-scrollable .pt-cv-thumbnail {
+            width: 100%;
+            margin-bottom: 0 !important
+        }
+
+        .pt-cv-cap-w-img {
+            background: rgba(51, 51, 51, .8) !important
+        }
+
+        .pt-cv-view .pt-cv-carousel-caption {
+            bottom: 0;
+            position: absolute;
+            margin-bottom: 0 !important
+        }
+
+        .pt-cv-href-thumbnail {
+            max-width: 100%
+        }
+
+        .pt-cv-view .pt-cv-title a {
+            font-weight: 400
+        }
+
+        ul {
+            box-sizing: border-box
+        }
+
+        :root {
+            --wp--preset--font-size--normal: 16px;
+            --wp--preset--font-size--huge: 42px
+        }
+
+        .screen-reader-text {
+            clip: rect(1px, 1px, 1px, 1px);
+            word-wrap: normal !important;
+            border: 0;
+            -webkit-clip-path: inset(50%);
+            clip-path: inset(50%);
+            height: 1px;
+            margin: -1px;
+            overflow: hidden;
+            padding: 0;
+            position: absolute;
+            width: 1px
+        }
+
+        #cedula-plugin-mx .position-relative {
+            position: relative
+        }
+
+        #cedula-plugin-mx .position-absolute {
+            position: absolute
+        }
+
+        #cedula-plugin-mx .w-100 {
+            width: 100%
+        }
+
+        #cedula-plugin-mx .d-none {
+            display: none
+        }
+
+        #cedula-plugin-mx .cedula-mtop {
+            margin-top: 10px !important
+        }
+
+        #cedula-plugin-mx .text-center {
+            text-align: center
+        }
+
+        #cedula-plugin-mx .btn-submit {
+            padding: .5em;
+            width: 100%;
+            margin: auto;
+            border-radius: 5px;
+            border: 1px solid #b6b6b6;
+            background-color: #666;
+            color: #fff
+        }
+
+        #cedula-plugin-mx .cedula-input-text {
+            display: block;
+            width: 100%;
+            height: calc(1.5em+ 0.75rem+ 2px);
+            padding: .375rem .75rem;
+            font-size: 1rem;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #495057;
+            background-color: #fff;
+            background-clip: padding-box;
+            border: 1px solid #ced4da;
+            border-radius: .25rem
+        }
+
+        #cedula-plugin-mx .cedula-row {
+            width: 90%;
+            margin: auto
+        }
+
+        #cedula-plugin-mx .cedula-row .cedula-col-100-width {
+            width: 100%
+        }
+
+        #cedula-plugin-mx .cedula-row .cedula-col-label {
+            width: 30%;
+            display: inline-block
+        }
+
+        #cedula-plugin-mx .cedula-row .cedula-col-input {
+            width: 65%;
+            display: inline-block
+        }
+
+        #cedula-plugin-mx #table-result {
+            width: 100%;
+            margin-top: 1em
+        }
+
+        #cedula-plugin-mx #table-result .table {
+            width: 90%;
+            margin: auto
+        }
+
+        #cedula-plugin-mx #table-result_cedula {
+            padding: 2em;
+            border-top: 1px solid #ced4da;
+            margin-top: 1em
+        }
+
+        #cedula-plugin-mx #cerrar_resut_personal {
+            right: 1em;
+            top: 0
+        }
+
+        .wpsm_panel-body {
+            padding: 15px
+        }
+
+        .wpsm_panel-group .wpsm_panel-heading+.wpsm_panel-collapse>.wpsm_panel-body {
+            border-top: 1px solid #ddd
+        }
+
+        .wpsm_panel-default>.wpsm_panel-heading+.wpsm_panel-collapse>.wpsm_panel-body {
+            border-top-color: #ddd
+        }
+
+        .wpsm_panel-group .collapse {
+            display: none
+        }
+
+        #toc_container li,
+        #toc_container ul {
+            margin: 0;
+            padding: 0
+        }
+
+        #toc_container.no_bullets li,
+        #toc_container.no_bullets ul,
+        #toc_container.no_bullets ul li {
+            background: 0 0;
+            list-style-type: none;
+            list-style: none
+        }
+
+        #toc_container ul ul {
+            margin-left: 1.5em
+        }
+
+        #toc_container p.toc_title+ul.toc_list {
+            margin-top: 1em
+        }
+
+        #toc_container a {
+            text-decoration: none;
+            text-shadow: none
+        }
+
+        * {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box
+        }
+
+        *:before,
+        *:after {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box
+        }
+
+        img {
+            vertical-align: middle
+        }
+
+        .text-center {
+            text-align: center
+        }
+
+        .grid-100:after,
+        .grid-100:before,
+        .grid-container:after,
+        .grid-container:before,
+        [class*=mobile-grid-]:after,
+        [class*=mobile-grid-]:before,
+        [class*=tablet-grid-]:after,
+        [class*=tablet-grid-]:before {
+            content: ".";
+            display: block;
+            overflow: hidden;
+            visibility: hidden;
+            font-size: 0;
+            line-height: 0;
+            width: 0;
+            height: 0
+        }
+
+        .grid-100:after,
+        .grid-container:after,
+        [class*=mobile-grid-]:after,
+        [class*=tablet-grid-]:after {
+            clear: both
+        }
+
+        .grid-container {
+            margin-left: auto;
+            margin-right: auto;
+            max-width: 1200px;
+            padding-left: 10px;
+            padding-right: 10px
+        }
+
+        .grid-100,
+        [class*=mobile-grid-],
+        [class*=tablet-grid-] {
+            box-sizing: border-box;
+            padding-left: 10px;
+            padding-right: 10px
+        }
+
+        .grid-parent {
+            padding-left: 0;
+            padding-right: 0
+        }
+
+        @media (max-width:767px) {
+            .mobile-grid-100 {
+                clear: both;
+                width: 100%
+            }
+        }
+
+        @media (min-width:768px) and (max-width:1024px) {
+            .tablet-grid-100 {
+                clear: both;
+                width: 100%
+            }
+        }
+
+        @media (min-width:1025px) {
+            .grid-100 {
+                clear: both;
+                width: 100%
+            }
+        }
+
+        a,
+        body,
+        div,
+        em,
+        form,
+        h1,
+        h2,
+        html,
+        iframe,
+        ins,
+        label,
+        li,
+        p,
+        span,
+        strong,
+        table,
+        tbody,
+        th,
+        thead,
+        tr,
+        ul {
+            border: 0;
+            margin: 0;
+            padding: 0
+        }
+
+        html {
+            font-family: sans-serif;
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%
+        }
+
+        article,
+        aside,
+        header,
+        main,
+        nav {
+            display: block
+        }
+
+        ul {
+            list-style: none
+        }
+
+        table {
+            border-collapse: separate;
+            border-spacing: 0
+        }
+
+        th {
+            font-weight: 400;
+            text-align: left;
+            padding: 5px
+        }
+
+        a {
+            background-color: transparent
+        }
+
+        a img {
+            border: 0
+        }
+
+        body,
+        button,
+        input {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+            font-weight: 400;
+            text-transform: none;
+            font-size: 17px;
+            line-height: 1.5
+        }
+
+        p {
+            margin-bottom: 1.5em
+        }
+
+        h1,
+        h2 {
+            font-family: inherit;
+            font-size: 100%;
+            font-style: inherit;
+            font-weight: inherit
+        }
+
+        table,
+        th {
+            border: 1px solid rgba(0, 0, 0, .1)
+        }
+
+        table {
+            border-collapse: separate;
+            border-spacing: 0;
+            border-width: 1px 0 0 1px;
+            margin: 0 0 1.5em;
+            width: 100%
+        }
+
+        th {
+            padding: 8px
+        }
+
+        th {
+            border-width: 0 1px 1px 0
+        }
+
+        h1 {
+            font-size: 42px;
+            margin-bottom: 20px;
+            line-height: 1.2em;
+            font-weight: 400;
+            text-transform: none
+        }
+
+        h2 {
+            font-size: 35px;
+            margin-bottom: 20px;
+            line-height: 1.2em;
+            font-weight: 400;
+            text-transform: none
+        }
+
+        ul {
+            margin: 0 0 1.5em 3em
+        }
+
+        ul {
+            list-style: disc
+        }
+
+        li>ul {
+            margin-bottom: 0;
+            margin-left: 1.5em
+        }
+
+        strong {
+            font-weight: 700
+        }
+
+        em,
+        i {
+            font-style: italic
+        }
+
+        ins {
+            text-decoration: none
+        }
+
+        table {
+            margin: 0 0 1.5em;
+            width: 100%
+        }
+
+        th {
+            font-weight: 700
+        }
+
+        img {
+            height: auto;
+            max-width: 100%
+        }
+
+        button,
+        input {
+            font-size: 100%;
+            margin: 0;
+            vertical-align: baseline
+        }
+
+        button,
+        input[type=submit] {
+            border: 1px solid transparent;
+            background: #55555e;
+            -webkit-appearance: button;
+            padding: 10px 20px;
+            color: #fff
+        }
+
+        input[type=checkbox] {
+            box-sizing: border-box;
+            padding: 0
+        }
+
+        button::-moz-focus-inner,
+        input::-moz-focus-inner {
+            border: 0;
+            padding: 0
+        }
+
+        input[type=text] {
+            background: #fafafa;
+            color: #666;
+            border: 1px solid #ccc;
+            border-radius: 0;
+            padding: 10px 15px;
+            box-sizing: border-box;
+            max-width: 100%
+        }
+
+        a {
+            text-decoration: none
+        }
+
+        .screen-reader-text {
+            border: 0;
+            clip: rect(1px, 1px, 1px, 1px);
+            -webkit-clip-path: inset(50%);
+            clip-path: inset(50%);
+            height: 1px;
+            margin: -1px;
+            overflow: hidden;
+            padding: 0;
+            position: absolute !important;
+            width: 1px;
+            word-wrap: normal !important
+        }
+
+        .entry-content:after,
+        .inside-header:not(.grid-container):after,
+        .site-content:after,
+        .site-header:after {
+            content: "";
+            display: table;
+            clear: both
+        }
+
+        .main-navigation {
+            z-index: 100;
+            padding: 0;
+            clear: both;
+            display: block
+        }
+
+        .main-navigation a {
+            display: block;
+            text-decoration: none;
+            font-weight: 400;
+            text-transform: none;
+            font-size: 15px
+        }
+
+        .main-navigation ul {
+            list-style: none;
+            margin: 0;
+            padding-left: 0
+        }
+
+        .main-navigation .main-nav ul li a {
+            padding-left: 20px;
+            padding-right: 20px;
+            line-height: 60px
+        }
+
+        .inside-navigation {
+            position: relative
+        }
+
+        .main-navigation li {
+            float: left;
+            position: relative
+        }
+
+        .main-navigation ul ul {
+            display: block;
+            box-shadow: 1px 1px 0 rgba(0, 0, 0, .1);
+            float: left;
+            position: absolute;
+            left: -99999px;
+            opacity: 0;
+            z-index: 99999;
+            width: 200px;
+            text-align: left;
+            top: auto;
+            height: 0;
+            overflow: hidden
+        }
+
+        .main-navigation ul ul a {
+            display: block
+        }
+
+        .main-navigation ul ul li {
+            width: 100%
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            line-height: normal;
+            padding: 10px 20px;
+            font-size: 14px
+        }
+
+        .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 0;
+            position: relative
+        }
+
+        .menu-item-has-children .dropdown-menu-toggle {
+            display: inline-block;
+            height: 100%;
+            clear: both;
+            padding-right: 20px;
+            padding-left: 10px
+        }
+
+        .site-header {
+            position: relative
+        }
+
+        .inside-header {
+            padding: 20px 40px
+        }
+
+        .site-logo {
+            display: inline-block;
+            max-width: 100%
+        }
+
+        .site-header .header-image {
+            vertical-align: middle
+        }
+
+        .header-aligned-center .site-header {
+            text-align: center
+        }
+
+        .entry-content:not(:first-child) {
+            margin-top: 2em
+        }
+
+        .entry-header,
+        .site-content {
+            word-wrap: break-word
+        }
+
+        .entry-title {
+            margin-bottom: 0
+        }
+
+        iframe {
+            max-width: 100%
+        }
+
+        .widget {
+            margin: 0 0 30px;
+            box-sizing: border-box
+        }
+
+        .separate-containers .widget:last-child,
+        .widget:last-child {
+            margin-bottom: 0
+        }
+
+        .separate-containers .inside-article {
+            padding: 40px
+        }
+
+        .separate-containers .site-main>*,
+        .separate-containers .widget {
+            margin-bottom: 20px
+        }
+
+        .separate-containers .site-main {
+            margin: 20px
+        }
+
+        .separate-containers.no-sidebar .site-main {
+            margin-left: 0;
+            margin-right: 0
+        }
+
+        .separate-containers .site-main>:last-child {
+            margin-bottom: 0
+        }
+
+        .top-bar {
+            font-weight: 400;
+            text-transform: none;
+            font-size: 13px
+        }
+
+        .top-bar .inside-top-bar .widget {
+            padding: 0;
+            display: inline-block;
+            margin: 0
+        }
+
+        .inside-top-bar {
+            padding: 10px 40px
+        }
+
+        .top-bar-align-right {
+            text-align: right
+        }
+
+        .top-bar-align-right .inside-top-bar>.widget:nth-child(odd) {
+            margin-left: 10px
+        }
+
+        .container.grid-container {
+            width: auto
+        }
+
+        .menu-toggle {
+            display: none
+        }
+
+        .menu-toggle {
+            padding: 0 20px;
+            line-height: 60px;
+            margin: 0;
+            font-weight: 400;
+            text-transform: none;
+            font-size: 15px
+        }
+
+        button.menu-toggle {
+            background-color: transparent;
+            width: 100%;
+            border: 0;
+            text-align: center
+        }
+
+        .menu-toggle .mobile-menu {
+            padding-left: 3px
+        }
+
+        @media (max-width:768px) {
+            .top-bar.top-bar-align-right {
+                text-align: center
+            }
+
+            .top-bar .widget {
+                float: none !important;
+                margin: 0 10px !important
+            }
+
+            .site-header {
+                text-align: center
+            }
+
+            .content-area {
+                float: none;
+                width: 100%;
+                left: 0;
+                right: 0
+            }
+
+            .site-main {
+                margin-left: 0 !important;
+                margin-right: 0 !important
+            }
+        }
+
+        @font-face {
+            font-family: GeneratePress;
+            src: url(https://cedulaprofesionalsep.online/wp-content/themes/generatepress/assets/fonts/generatepress.eot);
+            src: url(https://cedulaprofesionalsep.online/wp-content/themes/generatepress/assets/fonts/generatepress.eot#iefix) format("embedded-opentype"), url(https://cedulaprofesionalsep.online/wp-content/themes/generatepress/assets/fonts/generatepress.woff2) format("woff2"), url(https://cedulaprofesionalsep.online/wp-content/themes/generatepress/assets/fonts/generatepress.woff) format("woff"), url(https://cedulaprofesionalsep.online/wp-content/themes/generatepress/assets/fonts/generatepress.ttf) format("truetype"), url(https://cedulaprofesionalsep.online/wp-content/themes/generatepress/assets/fonts/generatepress.svg#GeneratePress) format("svg");
+            font-weight: 400;
+            font-style: normal
+        }
+
+        .dropdown-menu-toggle:before,
+        .generate-back-to-top:before,
+        .menu-toggle:before {
+            -moz-osx-font-smoothing: grayscale;
+            -webkit-font-smoothing: antialiased;
+            font-style: normal;
+            font-variant: normal;
+            text-rendering: auto;
+            line-height: 1
+        }
+
+        .menu-toggle:before {
+            content: "\f0c9";
+            font-family: GeneratePress;
+            width: 1.28571429em;
+            text-align: center;
+            display: inline-block
+        }
+
+        .dropdown-menu-toggle:before {
+            content: "\f107";
+            font-family: GeneratePress;
+            display: inline-block;
+            width: .8em;
+            text-align: left
+        }
+
+        .generate-back-to-top:before {
+            content: "\f106";
+            font-family: GeneratePress
+        }
+
+        .su-button {
+            display: inline-block !important;
+            text-align: center;
+            text-decoration: none !important;
+            box-sizing: content-box !important
+        }
+
+        .su-button-center {
+            text-align: center
+        }
+
+        .su-button span {
+            display: block !important;
+            text-decoration: none !important;
+            box-sizing: content-box !important
+        }
+
+        .su-button i {
+            display: inline-block;
+            width: 1em;
+            height: 1em;
+            margin: 0 .5em 0 0 !important;
+            text-align: center;
+            line-height: 1em
+        }
+
+        @media screen and (max-width:768px) {
+            .su-button span {
+                padding-top: .25em !important;
+                padding-bottom: .25em !important;
+                line-height: 1.2 !important
+            }
+        }
+
+        .su-button-style-default {
+            border-width: 1px;
+            border-style: solid
+        }
+
+        .su-button-style-default span {
+            border-top-width: 1px;
+            border-bottom-width: 1px;
+            border-top-style: solid;
+            border-bottom-style: solid
+        }
+
+        @font-face {
+            font-family: ShortcodesUltimateIcons;
+            src: url(https://cedulaprofesionalsep.online/wp-content/plugins/shortcodes-ultimate/vendor/fork-awesome/fonts/forkawesome-webfont.eot?v=1.2.0);
+            src: url(https://cedulaprofesionalsep.online/wp-content/plugins/shortcodes-ultimate/vendor/fork-awesome/fonts/forkawesome-webfont.eot?#iefix&v=1.2.0) format("embedded-opentype"), url(https://cedulaprofesionalsep.online/wp-content/plugins/shortcodes-ultimate/vendor/fork-awesome/fonts/forkawesome-webfont.woff2?v=1.2.0) format("woff2"), url(https://cedulaprofesionalsep.online/wp-content/plugins/shortcodes-ultimate/vendor/fork-awesome/fonts/forkawesome-webfont.woff?v=1.2.0) format("woff"), url(https://cedulaprofesionalsep.online/wp-content/plugins/shortcodes-ultimate/vendor/fork-awesome/fonts/forkawesome-webfont.ttf?v=1.2.0) format("truetype"), url(https://cedulaprofesionalsep.online/wp-content/plugins/shortcodes-ultimate/vendor/fork-awesome/fonts/forkawesome-webfont.svg?v=1.2.0#forkawesomeregular) format("svg");
+            font-weight: 400;
+            font-style: normal;
+            font-display: block
+        }
+
+        .sui {
+            display: inline-block;
+            font: normal normal normal 14px/1 ShortcodesUltimateIcons;
+            font-size: inherit;
+            text-rendering: auto;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        .sui-download:before {
+            content: "\f019"
+        }
+
+        .sui-mobile-phone:before {
+            content: "\f10b"
+        }
+    </style>
+    <meta name="description" content="ᐉ Consulta tu cédula profesional en línea en apenas 2 minutos. Verifica y descarga. Busca por número o por nombre y apellidos .... hazlo ahora." />
+    <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
+    <link rel="canonical" href="https://cedulaprofesionalsep.online/" />
+    <meta property="og:locale" content="es_ES" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Consulta tu cédula profesional electrónica - Consultar mi Cédula Profesional Electrónica" />
+    <meta property="og:description" content="ᐉ Consulta tu cédula profesional en línea en apenas 2 minutos. Verifica y descarga. Busca por número o por nombre y apellidos .... hazlo ahora." />
+    <meta property="og:url" content="https://cedulaprofesionalsep.online/" />
+    <meta property="og:site_name" content="Consultar mi Cédula Profesional Electrónica" />
+    <meta property="og:updated_time" content="2022-04-16T22:44:51+01:00" />
+    <meta property="article:published_time" content="2020-12-28T19:05:17+01:00" />
+    <meta property="article:modified_time" content="2022-04-16T22:44:51+01:00" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Consulta tu cédula profesional electrónica - Consultar mi Cédula Profesional Electrónica" />
+    <meta name="twitter:description" content="ᐉ Consulta tu cédula profesional en línea en apenas 2 minutos. Verifica y descarga. Busca por número o por nombre y apellidos .... hazlo ahora." />
+    <meta name="twitter:label1" content="Escrito por" />
+    <meta name="twitter:data1" content="Yolanda Mendoza" />
+    <meta name="twitter:label2" content="Tiempo de lectura" />
+    <meta name="twitter:data2" content="6 minutos" />
+    <script type="text/javascript" async="" src="https://cedulaprofesionalsep.online/wp-content/cache/busting/google-tracking/ga-d40531c5e99a6f84e42535859476fe35.js"></script>
+    <script type="application/ld+json" class="rank-math-schema-pro">
+        {
+            "@context": "https://schema.org",
+            "@graph": [{
+                "@type": ["Person", "Organization"],
+                "@id": "https://cedulaprofesionalsep.online/#person",
+                "name": "Yolanda Mendoza",
+                "logo": {
+                    "@type": "ImageObject",
+                    "@id": "https://cedulaprofesionalsep.online/#logo",
+                    "url": "https://cedulaprofesionalsep.online/wp-content/uploads/2022/02/Consultar-mi-Cedula-Profesional-Electronica-Tramitar-en-linea.jpg",
+                    "caption": "Yolanda Mendoza",
+                    "inLanguage": "es",
+                    "width": "1500",
+                    "height": "600"
+                },
+                "image": {
+                    "@type": "ImageObject",
+                    "@id": "https://cedulaprofesionalsep.online/#logo",
+                    "url": "https://cedulaprofesionalsep.online/wp-content/uploads/2022/02/Consultar-mi-Cedula-Profesional-Electronica-Tramitar-en-linea.jpg",
+                    "caption": "Yolanda Mendoza",
+                    "inLanguage": "es",
+                    "width": "1500",
+                    "height": "600"
+                }
+            }, {
+                "@type": "WebSite",
+                "@id": "https://cedulaprofesionalsep.online/#website",
+                "url": "https://cedulaprofesionalsep.online",
+                "name": "Yolanda Mendoza",
+                "publisher": {
+                    "@id": "https://cedulaprofesionalsep.online/#person"
+                },
+                "inLanguage": "es",
+                "potentialAction": {
+                    "@type": "SearchAction",
+                    "target": "https://cedulaprofesionalsep.online/?s={search_term_string}",
+                    "query-input": "required name=search_term_string"
+                }
+            }, {
+                "@type": "ImageObject",
+                "@id": "https://cedulaprofesionalsep.online/wp-content/uploads/2021/01/tramite-cedula-profesional-electronica.jpg",
+                "url": "https://cedulaprofesionalsep.online/wp-content/uploads/2021/01/tramite-cedula-profesional-electronica.jpg",
+                "width": "200",
+                "height": "200",
+                "inLanguage": "es"
+            }, {
+                "<!DOCTYPE "description" content="Consultar registros de Cédulas Profesionales Oficial Por la Secretaria de Educacion Publica (SEP) o Cedula Profesional, Dirección General de Profesiones" />
+                <title>Consulta de Cedula  </title>
+                
+                
+                
+                
+                
+                <link  href="https://framework-gb.cdn.gob.mx/assets/styles/main.css" rel="stylesheet" />
+                <div class="row">
+                <ul class="nav nav-tabs">
+                <li class="nav-item">
+                <a class="nav-link active" data-toggle="tab" href="#home">Búsqueda</rodolfo>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link " data-toggle="tab" href="#menu1">Resultados</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link " data-toggle="tab" href="#menu2"> Detalle</a>
+                </li>
+                </ul>
+                
+                <!-- Tab panes -->
+                <div class="row">
+                <div class="col-md-12">
+                <div class="tab-content">
+                <div id="home" class="container tab-pane active"><br />
+                <h3>Datos de consulta</h3>
+                <hr />
+                <div class="container">
+                <form action="" method="post">
+                <div class="col-md-3">
+                <label for="email2" class="mb-2 mr-sm-2">Nombre(s)*:</label>
+                <input type="text" class="form-control mb-2 mr-sm-2" id=rodolfo"nombre" name="nombre" value="" placeholder="Nombre" required="" />
+                </div>
+                
+                <div class="col-md-3">
+                <label for="pwd2" class="mb-2 mr-sm-2">Primer apellido*:</label>
+                <input type="text" class="form-control mb-2 mr-sm-2" name="primer" id=lopez"primer" value="" placeholder="Primer apellido" />
+                </div>
+                
+                <div class="col-md-3">
+                <label for="pwd2" class="mb-2 mr-sm-2">Segundo apellido</label>
+                <input type="text" class="form-control mb-2 mr-sm-2" name="segundo" id=perez"segundo" value="" placeholder="Segundo apellido" />
+                </div>
+                <div class="col-md-2" style="text-align:right; margin-top:20px;">
+                <button type="submit" class="btn btn-primary mb-2" name="srch_btn" value="ok">Consultar</button>
+                </div>
+                </form></div>
+                <div class="container">
+                <div style="text-align:right">
+                <label style="text-align:right">(*)Campos obligatorios</label>
+                </d
+                
+                </div>
+                <div id="menu1" class="container tab-pane fade"><br />
+                <h3>Resultados de la búsqueda</h3>
+                <div class="row">
+                <div id="content">
+                <img src="i" alt="">
+                
+                </div>
+                </div>
+                <table class="table">
+                <thead>
+                <tr>
+                <th>Cédula</th>
+                <th>Nombre</th>
+                <th>Primer apellido</th>
+                <th>Segundo apellido</th>
+                <th>Tipo</th>
+                <th>Institución</th>
+                <th>Profesión</th>
+                
+                
+                <!DOCTYPE "description" content="Consultar registros de Cédulas Profesionales Oficial Por la Secretaria de Educacion Publica (SEP) o Cedula Profesional, Dirección General de Profesiones" />
+                <title>Consulta de Cedula  </title>
+                
+                
+                
+                
+                
+                <link  href="https://framework-gb.cdn.gob.mx/assets/styles/main.css" rel="stylesheet" />
+                <div class="row">
+                <ul class="nav nav-tabs">
+                <li class="nav-item">
+                <a class="nav-link active" data-toggle="tab" href="#home">Búsqueda</rodolfo>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link " data-toggle="tab" href="#menu1">Resultados</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link " data-toggle="tab" href="#menu2"> Detalle</a>
+                </li>
+                </ul>
+                
+                <!-- Tab panes -->
+                <div class="row">
+                <div class="col-md-12">
+                <div class="tab-content">
+                <div id="home" class="container tab-pane active"><br />
+                <h3>Datos de consulta</h3>
+                <hr />
+                <div class="container">
+                <form action="" method="post">
+                <div class="col-md-3">
+                <label for="email2" class="mb-2 mr-sm-2">Nombre(s)*:</label>
+                <input type="text" class="form-control mb-2 mr-sm-2" id=rodolfo"nombre" name="nombre" value="" placeholder="Nombre" required="" />
+                </div>
+                
+                <div class="col-md-3">
+                <label for="pwd2" class="mb-2 mr-sm-2">Primer apellido*:</label>
+                <input type="text" class="form-control mb-2 mr-sm-2" name="primer" id=lopez"primer" value="" placeholder="Primer apellido" />
+                </div>
+                
+                <div class="col-md-3">
+                <label for="pwd2" class="mb-2 mr-sm-2">Segundo apellido</label>
+                <input type="text" class="form-control mb-2 mr-sm-2" name="segundo" id=perez"segundo" value="" placeholder="Segundo apellido" />
+                </div>
+                <div class="col-md-2" style="text-align:right; margin-top:20px;">
+                <button type="submit" class="btn btn-primary mb-2" name="srch_btn" value="ok">Consultar</button>
+                </div>
+                </form></div>
+                <div class="container">
+                <div style="text-align:right">
+                <label style="text-align:right">(*)Campos obligatorios</label>
+                </d
+                
+                </div>
+                <div id="menu1" class="container tab-pane fade"><br />
+                <h3>Resultados de la búsqueda</h3>
+                <div class="row">
+                <div id="content">
+                <img src="i" alt="">
+                
+                </div>
+                </div>
+                <table class="table">
+                <thead>
+                <tr>
+                <th>Cédula</th>
+                <th>Nombre</th>
+                <th>Primer apellido</th>
+                <th>Segundo apellido</th>
+                <th>Tipo</th>
+                <th>Institución</th>
+                <th>Profesión</th>
+                
+                
+                @type": "Person",
+                "@id": "https://cedulaprofesionalsep.online/author/admin/",
+                "name": "Yolanda Mendoza",
+                "url": "https://cedulaprofesionalsep.online/author/admin/",
+                "image": {
+                    "@type": "ImageObject",
+                    "@id": "https://secure.gravatar.com/avatar/7c1acae7e3cf805948a0414243fc3280?s=96&amp;d=mm&amp;r=g",
+                    "url": "https://secure.gravatar.com/avatar/7c1acae7e3cf805948a0414243fc3280?s=96&amp;d=mm&amp;r=g",
+                    "caption": "Yolanda Mendoza",
+                    "inLanguage": "es"
+                }
+            }, {
+                "@type": "WebPage",
+                "@id": "https://cedulaprofesionalsep.online/#webpage",
+                "url": "https://cedulaprofesionalsep.online/",
+                "name": "Consulta tu c\u00e9dula profesional electr\u00f3nica - Consultar mi C\u00e9dula Profesional Electr\u00f3nica",
+                "datePublished": "2<!DOCTYPE "description" content="Consultar registros de Cédulas Profesionales Oficial Por la Secretaria de Educacion Publica (SEP) o Cedula Profesional, Dirección General de Profesiones" />
+                <title>Consulta de Cedula  </title>
+                
+                
+                
+                
+                
+                <link  href="https://framework-gb.cdn.gob.mx/assets/styles/main.css" rel="stylesheet" />
+                <div class="row">
+                <ul class="nav nav-tabs">
+                <li class="nav-item">
+                <a class="nav-link active" data-toggle="tab" href="#home">Búsqueda</rodolfo>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link " data-toggle="tab" href="#menu1">Resultados</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link " data-toggle="tab" href="#menu2"> Detalle</a>
+                </li>
+                </ul>
+                
+                <!-- Tab panes -->
+                <div class="row">
+                <div class="col-md-12">
+                <div class="tab-content">
+                <div id="home" class="container tab-pane active"><br />
+                <h3>Datos de consulta</h3>
+                <hr />
+                <div class="container">
+                <form action="" method="post">
+                <div class="col-md-3">
+                <label for="email2" class="mb-2 mr-sm-2">Nombre(s)*:</label>
+                <input type="text" class="form-control mb-2 mr-sm-2" id=rodolfo alberto"nombre" name="nombre" value="" placeholder="Nombre" required="" />
+                </div>
+                
+                <div class="col-md-3">
+                <label for="pwd2" class="mb-2 mr-sm-2">Primer apellido*:</label>
+                <input type="text" class="form-control mb-2 mr-sm-2" name="primer" id=lopez"primer" value="" placeholder="Primer apellido" />
+                </div>
+                
+                <div class="col-md-3">
+                <label for="pwd2" class="mb-2 mr-sm-2">Segundo apellido</label>
+                <input type="text" class="form-control mb-2 mr-sm-2" name="segundo" id=perez"segundo" value="" placeholder="Segundo apellido" />
+                </div>
+                <div class="col-md-2" style="text-align:right; margin-top:20px;">
+                <button type="submit" class="btn btn-primary mb-2" name="srch_btn" value="ok">Consultar</button>
+                </div>
+                </form></div>
+                <div class="container">
+                <div style="text-align:right">
+                <label style="text-align:right">(*)Campos obligatorios</label>
+                </d
+                
+                </div>
+                <div id="menu1" class="container tab-pane fade"><br />
+                <h3>Resultados de la búsqueda</h3>
+                <div class="row">
+                <div id="content">
+                <img src="i" alt="">
+                
+                </div>
+                </div>
+                <table class="table">
+                <thead>
+                <tr>
+                <th>Cédula</th>
+                <th>Nombre</th>
+                <th>Primer apellido</th>
+                <th>Segundo apellido</th>
+                <th>Tipo</th>
+                <th>Institución</th>
+                <th>Profesión</th>
+                
+                
+                020-12-28T19:05:17+01:00",
+                "dateModified": "2022-04-16T22:44:51+01:00",
+                "author": {
+                    "@id": "https://cedulaprofesionalsep.online/author/admin/"
+                },
+                "isPartOf": {
+                    "@id": "https://cedulaprofesionalsep.online/#website"
+                },
+                "primaryImageOfPage": {
+                    "@id": "https://cedulaprofesionalsep.online/wp-content/uploads/2021/01/tramite-cedula-profesional-electronica.jpg"
+                },
+                "inLanguage": "es"
+            }, {
+                "@type": "Article",
+                "headline": "Consulta tu c\u00e9dula profesional electr\u00f3nica - Consultar mi C\u00e9dula Profesional Electr\u00f3nica",
+                "keywords": "cedula profesional,cedula profesional electronica,cedula profesional en linea,cedula profesional digital,cedula profesional federal",
+                "datePublished": "2020-12-28T19:05:17+01:00",
+                "dateModified": "2022-04-16T22:44:51+01:00",
+                "author": {
+                    "@id": "https://cedulaprofesionalsep.online/author/admin/"
+                },
+                "publisher": {
+                    "@id": "https://cedulaprofesionalsep.online/#person"
+                },
+                "description": "\u1409 Consulta tu c\u00e9dula profesional en l\u00ednea en apenas 2 minutos. Verifica y descarga. Busca por n\u00famero o por nombre y apellidos .... hazlo ahora.",
+                "name": "Consulta tu c\u00e9dula profesional electr\u00f3nica - Consultar mi C\u00e9dula Profesional Electr\u00f3nica",
+                "@id": "https://cedulaprofesionalsep.online/#richSnippet",
+                "isPartOf": {
+                    "@id": "https://cedulaprofesionalsep.online/#webpage"
+                },
+                "image": {
+                    "@id": "https://cedulaprofesionalsep.online/wp-content/uploads/2021/01/tramite-cedula-profesional-electronica.jpg"
+                },
+                "inLanguage": "es",
+                "mainEntityOfPage": {
+                    "@id": "https://cedulaprofesionalsep.online/#webpage"
+                }
+            }]
+        }
+    </script>
+    <meta name="google-site-verification" content="3sS0YW6RDLkRKwA6J8jSlVVqa1hMrCuuIztxpg5J7u4" />
+    <meta name="msvalidate.01" content="821EECE4E185AC3D197BD89858D4100A" />
+    <link rel="dns-prefetch" href="//fonts.googleapis.com" />
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com" />
+    <link rel="dns-prefetch" href="//googleads.g.doubleclick.net" />
+    <link rel="dns-prefetch" href="//adservice.google.com" />
+    <link rel="dns-prefetch" href="//adservice.google.ca" />
+    <link rel="dns-prefetch" href="//www.google-analytics.com" />
+    <link rel="dns-prefetch" href="//fonts.gstatic.com" />
+    <link rel="dns-prefetch" href="//fundingchoicesmessages.google.com" />
+    <link rel="dns-prefetch" href="//stats.g.doubleclick.net" />
+    <link rel="dns-prefetch" href="//www.w3.org" />
+    <link rel="dns-prefetch" href="//www.google.fr" />
+    <link rel="dns-prefetch" href="//www.google.nl" />
+    <link rel="dns-prefetch" href="//www.google.be" />
+    <link rel="dns-prefetch" href="//script.hotjar.com" />
+    <link href="https://fonts.gstatic.com" crossorigin="" rel="preconnect" />
+    <link rel="alternate" type="application/rss+xml" title="Consultar mi Cédula Profesional Electrónica » Feed" href="https://cedulaprofesionalsep.online/feed/" />
+    <link rel="alternate" type="application/rss+xml" title="Consultar mi Cédula Profesional Electrónica » Feed de los comentarios" href="https://cedulaprofesionalsep.online/comments/feed/" />
+    <style>
+        img.wp-smiley,
+        img.emoji {
+            display: inline !important;
+            border: none !important;
+            box-shadow: none !important;
+            height: 1em !important;
+            width: 1em !important;
+            margin: 0 0.07em !important;
+            vertical-align: -0.1em !important;
+            background: none !important;
+            padding: 0 !important
+        }
+    </style>
+    <style id="global-styles-inline-css">
+        body {
+            --wp--preset--color--black: #000;
+            --wp--preset--color--cyan-bluish-gray: #abb8c3;
+            --wp--preset--color--white: #fff;
+            --wp--preset--color--pale-pink: #f78da7;
+            --wp--preset--color--vivid-red: #cf2e2e;
+            --wp--preset--color--luminous-vivid-orange: #ff6900;
+            --wp--preset--color--luminous-vivid-amber: #fcb900;
+            --wp--preset--color--light-green-cyan: #7bdcb5;
+            --wp--preset--color--vivid-green-cyan: #00d084;
+            --wp--preset--color--pale-cyan-blue: #8ed1fc;
+            --wp--preset--color--vivid-cyan-blue: #0693e3;
+            --wp--preset--color--vivid-purple: #9b51e0;
+            --wp--preset--color--contrast: var(--contrast);
+            --wp--preset--color--contrast-2: var(--contrast-2);
+            --wp--preset--color--contrast-3: var(--contrast-3);
+            --wp--preset--color--base: var(--base);
+            --wp--preset--color--base-2: var(--base-2);
+            --wp--preset--color--base-3: var(--base-3);
+            --wp--preset--color--accent: var(--accent);
+            --wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg, rgba(6, 147, 227, 1) 0%, rgb(155, 81, 224) 100%);
+            --wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg, rgb(122, 220, 180) 0%, rgb(0, 208, 130) 100%);
+            --wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg, rgba(252, 185, 0, 1) 0%, rgba(255, 105, 0, 1) 100%);
+            --wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg, rgba(255, 105, 0, 1) 0%, rgb(207, 46, 46) 100%);
+            --wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg, rgb(238, 238, 238) 0%, rgb(169, 184, 195) 100%);
+            --wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg, rgb(74, 234, 220) 0%, rgb(151, 120, 209) 20%, rgb(207, 42, 186) 40%, rgb(238, 44, 130) 60%, rgb(251, 105, 98) 80%, rgb(254, 248, 76) 100%);
+            --wp--preset--gradient--blush-light-purple: linear-gradient(135deg, rgb(255, 206, 236) 0%, rgb(152, 150, 240) 100%);
+            --wp--preset--gradient--blush-bordeaux: linear-gradient(135deg, rgb(254, 205, 165) 0%, rgb(254, 45, 45) 50%, rgb(107, 0, 62) 100%);
+            --wp--preset--gradient--luminous-dusk: linear-gradient(135deg, rgb(255, 203, 112) 0%, rgb(199, 81, 192) 50%, rgb(65, 88, 208) 100%);
+            --wp--preset--gradient--pale-ocean: linear-gradient(135deg, rgb(255, 245, 203) 0%, rgb(182, 227, 212) 50%, rgb(51, 167, 181) 100%);
+            --wp--preset--gradient--electric-grass: linear-gradient(135deg, rgb(202, 248, 128) 0%, rgb(113, 206, 126) 100%);
+            --wp--preset--gradient--midnight: linear-gradient(135deg, rgb(2, 3, 129) 0%, rgb(40, 116, 252) 100%);
+            --wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');
+            --wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');
+            --wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');
+            --wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');
+            --wp--preset--duotone--midnight: url('#wp-duotone-midnight');
+            --wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');
+            --wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');
+            --wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');
+            --wp--preset--font-size--small: 13px;
+            --wp--preset--font-size--medium: 20px;
+            --wp--preset--font-size--large: 36px;
+            --wp--preset--font-size--x-large: 42px
+        }
+
+        .has-black-color {
+            color: var(--wp--preset--color--black) !important
+        }
+
+        .has-cyan-bluish-gray-color {
+            color: var(--wp--preset--color--cyan-bluish-gray) !important
+        }
+
+        .has-white-color {
+            color: var(--wp--preset--color--white) !important
+        }
+
+        .has-pale-pink-color {
+            color: var(--wp--preset--color--pale-pink) !important
+        }
+
+        .has-vivid-red-color {
+            color: var(--wp--preset--color--vivid-red) !important
+        }
+
+        .has-luminous-vivid-orange-color {
+            color: var(--wp--preset--color--luminous-vivid-orange) !important
+        }
+
+        .has-luminous-vivid-amber-color {
+            color: var(--wp--preset--color--luminous-vivid-amber) !important
+        }
+
+        .has-light-green-cyan-color {
+            color: var(--wp--preset--color--light-green-cyan) !important
+        }
+
+        .has-vivid-green-cyan-color {
+            color: var(--wp--preset--color--vivid-green-cyan) !important
+        }
+
+        .has-pale-cyan-blue-color {
+            color: var(--wp--preset--color--pale-cyan-blue) !important
+        }
+
+        .has-vivid-cyan-blue-color {
+            color: var(--wp--preset--color--vivid-cyan-blue) !important
+        }
+
+        .has-vivid-purple-color {
+            color: var(--wp--preset--color--vivid-purple) !important
+        }
+
+        .has-black-background-color {
+            background-color: var(--wp--preset--color--black) !important
+        }
+
+        .has-cyan-bluish-gray-background-color {
+            background-color: var(--wp--preset--color--cyan-bluish-gray) !important
+        }
+
+        .has-white-background-color {
+            background-color: var(--wp--preset--color--white) !important
+        }
+
+        .has-pale-pink-background-color {
+            background-color: var(--wp--preset--color--pale-pink) !important
+        }
+
+        .has-vivid-red-background-color {
+            background-color: var(--wp--preset--color--vivid-red) !important
+        }
+
+        .has-luminous-vivid-orange-background-color {
+            background-color: var(--wp--preset--color--luminous-vivid-orange) !important
+        }
+
+        .has-luminous-vivid-amber-background-color {
+            background-color: var(--wp--preset--color--luminous-vivid-amber) !important
+        }
+
+        .has-light-green-cyan-background-color {
+            background-color: var(--wp--preset--color--light-green-cyan) !important
+        }
+
+        .has-vivid-green-cyan-background-color {
+            background-color: var(--wp--preset--color--vivid-green-cyan) !important
+        }
+
+        .has-pale-cyan-blue-background-color {
+            background-color: var(--wp--preset--color--pale-cyan-blue) !important
+        }
+
+        .has-vivid-cyan-blue-background-color {
+            background-color: var(--wp--preset--color--vivid-cyan-blue) !important
+        }
+
+        .has-vivid-purple-background-color {
+            background-color: var(--wp--preset--color--vivid-purple) !important
+        }
+
+        .has-black-border-color {
+            border-color: var(--wp--preset--color--black) !important
+        }
+
+        .has-cyan-bluish-gray-border-color {
+            border-color: var(--wp--preset--color--cyan-bluish-gray) !important
+        }
+
+        .has-white-border-color {
+            border-color: var(--wp--preset--color--white) !important
+        }
+
+        .has-pale-pink-border-color {
+            border-color: var(--wp--preset--color--pale-pink) !important
+        }
+
+        .has-vivid-red-border-color {
+            border-color: var(--wp--preset--color--vivid-red) !important
+        }
+
+        .has-luminous-vivid-orange-border-color {
+            border-color: var(--wp--preset--color--luminous-vivid-orange) !important
+        }
+
+        .has-luminous-vivid-amber-border-color {
+            border-color: var(--wp--preset--color--luminous-vivid-amber) !important
+        }
+
+        .has-light-green-cyan-border-color {
+            border-color: var(--wp--preset--color--light-green-cyan) !important
+        }
+
+        .has-vivid-green-cyan-border-color {
+            border-color: var(--wp--preset--color--vivid-green-cyan) !important
+        }
+
+        .has-pale-cyan-blue-border-color {
+            border-color: var(--wp--preset--color--pale-cyan-blue) !important
+        }
+
+        .has-vivid-cyan-blue-border-color {
+            border-color: var(--wp--preset--color--vivid-cyan-blue) !important
+        }
+
+        .has-vivid-purple-border-color {
+            border-color: var(--wp--preset--color--vivid-purple) !important
+        }
+
+        .has-vivid-cyan-blue-to-vivid-purple-gradient-background {
+            background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important
+        }
+
+        .has-light-green-cyan-to-vivid-green-cyan-gradient-background {
+            background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important
+        }
+
+        .has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background {
+            background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important
+        }
+
+        .has-luminous-vivid-orange-to-vivid-red-gradient-background {
+            background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important
+        }
+
+        .has-very-light-gray-to-cyan-bluish-gray-gradient-background {
+            background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important
+        }
+
+        .has-cool-to-warm-spectrum-gradient-background {
+            background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important
+        }
+
+        .has-blush-light-purple-gradient-background {
+            background: var(--wp--preset--gradient--blush-light-purple) !important
+        }
+
+        .has-blush-bordeaux-gradient-background {
+            background: var(--wp--preset--gradient--blush-bordeaux) !important
+        }
+
+        .has-luminous-dusk-gradient-background {
+            background: var(--wp--preset--gradient--luminous-dusk) !important
+        }
+
+        .has-pale-ocean-gradient-background {
+            background: var(--wp--preset--gradient--pale-ocean) !important
+        }
+
+        .has-electric-grass-gradient-background {
+            background: var(--wp--preset--gradient--electric-grass) !important
+        }
+
+        .has-midnight-gradient-background {
+            background: var(--wp--preset--gradient--midnight) !important
+        }
+
+        .has-small-font-size {
+            font-size: var(--wp--preset--font-size--small) !important
+        }
+
+        .has-medium-font-size {
+            font-size: var(--wp--preset--font-size--medium) !important
+        }
+
+        .has-large-font-size {
+            font-size: var(--wp--preset--font-size--large) !important
+        }
+
+        .has-x-large-font-size {
+            font-size: var(--wp--preset--font-size--x-large) !important
+        }
+    </style>
+    <style id="generate-style-inline-css">
+        .entry-header .entry-meta {
+            display: none
+        }
+
+        body {
+            background-color: #efefef;
+            color: #3a3a3a
+        }
+
+        a {
+            color: #1e73be
+        }
+
+        a {
+            text-decoration: underline
+        }
+
+        .entry-title a,
+        .site-branding a,
+        a.button,
+        .wp-block-button__link,
+        .main-navigation a {
+            text-decoration: none
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000
+        }
+
+        body .grid-container {
+            max-width: 1200px
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto
+        }
+
+        .site-header .header-image {
+            width: 600px
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out
+        }
+
+        :root {
+            --contrast: #222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #fff;
+            --accent: #1e73be
+        }
+
+        .has-contrast-color {
+            color: #222
+        }
+
+        .has-contrast-background-color {
+            background-color: #222
+        }
+
+        .has-contrast-2-color {
+            color: #575760
+        }
+
+        .has-contrast-2-background-color {
+            background-color: #575760
+        }
+
+        .has-contrast-3-color {
+            color: #b2b2be
+        }
+
+        .has-contrast-3-background-color {
+            background-color: #b2b2be
+        }
+
+        .has-base-color {
+            color: #f0f0f0
+        }
+
+        .has-base-background-color {
+            background-color: #f0f0f0
+        }
+
+        .has-base-2-color {
+            color: #f7f8f9
+        }
+
+        .has-base-2-background-color {
+            background-color: #f7f8f9
+        }
+
+        .has-base-3-color {
+            color: #fff
+        }
+
+        .has-base-3-background-color {
+            background-color: #fff
+        }
+
+        .has-accent-color {
+            color: #1e73be
+        }
+
+        .has-accent-background-color {
+            background-color: #1e73be
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"
+        }
+
+        body {
+            line-height: 1.5
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em
+        }
+
+        .main-title {
+            font-family: "Montserrat", sans-serif
+        }
+
+        .site-description {
+            font-family: "Montserrat", sans-serif;
+            font-weight: 700;
+            font-size: 22px
+        }
+
+        .main-navigation a,
+        .menu-toggle {
+            font-weight: 700;
+            font-size: 20px
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 17px
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px
+        }
+
+        h1 {
+            font-family: Tahoma, Geneva, sans-serif;
+            font-weight: 700;
+            font-size: 40px
+        }
+
+        h2 {
+            font-weight: 300;
+            font-size: 30px
+        }
+
+        h3 {
+            font-size: 20px
+        }
+
+        h4 {
+            font-size: inherit
+        }
+
+        h5 {
+            font-size: inherit
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px
+            }
+
+            h2 {
+                font-size: 25px
+            }
+        }
+
+        .top-bar {
+            background-color: #006847;
+            color: #fff
+        }
+
+        .top-bar a {
+            color: #fff
+        }
+
+        .top-bar a:hover {
+            color: #303030
+        }
+
+        .site-header {
+            background-color: #2d7422;
+            color: #3a3a3a
+        }
+
+        .site-header a {
+            color: #3a3a3a
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #3a3a3a
+        }
+
+        .site-description {
+            color: #222
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #a30000
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #fff
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #fff;
+            background-color: #3ead0a
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus,
+        .main-navigation .mobile-bar-items a,
+        .main-navigation .mobile-bar-items a:hover,
+        .main-navigation .mobile-bar-items a:focus {
+            color: #fff
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #fff;
+            background-color: #3f3f3f
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #fff;
+            background-color: #3ead0a
+        }
+
+        .main-navigation ul ul {
+            background-color: #3f3f3f
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #fff
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fff;
+            background-color: #4f4f4f
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fff;
+            background-color: #4f4f4f
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #fff
+        }
+
+        .entry-meta {
+            color: #595959
+        }
+
+        .entry-meta a {
+            color: #595959
+        }
+
+        .entry-meta a:hover {
+            color: #1e73be
+        }
+
+        h1 {
+            color: #eb1873
+        }
+
+        .sidebar .widget {
+            background-color: #fff
+        }
+
+        .sidebar .widget .widget-title {
+            color: #000
+        }
+
+        .footer-widgets {
+            background-color: #fff
+        }
+
+        .footer-widgets .widget-title {
+            color: #000
+        }
+
+        .site-info {
+            color: #fff;
+            background-color: #222
+        }
+
+        .site-info a {
+            color: #fff
+        }
+
+        .site-info a:hover {
+            color: #606060
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #606060
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666;
+            background-color: #fafafa;
+            border-color: #ccc
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666;
+            background-color: #fff;
+            border-color: #bfbfbf
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #fff;
+            background-color: #666
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #fff;
+            background-color: #3f3f3f
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, .4);
+            color: #fff
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, .6);
+            color: #fff
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #fff
+            }
+        }
+
+        .inside-top-bar {
+            padding: 10px
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px)
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px
+        }
+
+        .site-info {
+            padding: 20px
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px
+            }
+
+            .site-info {
+                padding-right: 10px;
+                padding-left: 10px
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px)
+            }
+        }
+
+        .one-container .sidebar .widget {
+            padding: 0
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .main-navigation .mobile-bar-items,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav {
+                display: none
+            }
+
+            [class*="nav-float-"] .site-header .inside-header>* {
+                float: none;
+                clear: both
+            }
+        }
+
+        .main-navigation .slideout-toggle a:before,
+        .slide-opened .slideout-overlay .slideout-exit:before {
+            font-family: GeneratePress
+        }
+
+        .slideout-navigation .dropdown-menu-toggle:before {
+            content: "\f107" !important
+        }
+
+        .slideout-navigation .sfHover>a .dropdown-menu-toggle:before {
+            content: "\f106" !important
+        }
+
+        .navigation-branding .main-title {
+            font-weight: 700;
+            text-transform: none;
+            font-size: 25px;
+            font-family: "Montserrat", sans-serif
+        }
+
+        @media (max-width:768px) {
+            .navigation-branding .main-title {
+                font-size: 0
+            }
+        }
+    </style>
+    <style id="rocket-lazyload-inline-css">
+        .rll-youtube-player {
+            position: relative;
+            padding-bottom: 56.23%;
+            height: 0;
+            overflow: hidden;
+            max-width: 100%
+        }
+
+        .rll-youtube-player iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 100;
+            background: 0 0
+        }
+
+        .rll-youtube-player img {
+            bottom: 0;
+            display: block;
+            left: 0;
+            margin: auto;
+            max-width: 100%;
+            width: 100%;
+            position: absolute;
+            right: 0;
+            top: 0;
+            border: none;
+            height: auto;
+            cursor: pointer;
+            -webkit-transition: .4s all;
+            -moz-transition: .4s all;
+            transition: .4s all
+        }
+
+        .rll-youtube-player img:hover {
+            -webkit-filter: brightness(75%)
+        }
+
+        .rll-youtube-player .play {
+            height: 72px;
+            width: 72px;
+            left: 50%;
+            top: 50%;
+            margin-left: -36px;
+            margin-top: -36px;
+            position: absolute;
+            background: url(https://cedulaprofesionalsep.online/wp-content/plugins/wp-rocket/assets/img/youtube.png) no-repeat;
+            cursor: pointer
+        }
+
+        .wp-has-aspect-ratio .rll-youtube-player {
+            position: absolute;
+            padding-bottom: 0;
+            width: 100%;
+            height: 100%;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0
+        }
+    </style>
+    <script src="https://cedulaprofesionalsep.online/wp-content/cache/busting/1/wp-includes/js/jquery/jquery.min-3.6.0.js" id="jquery-core-js"></script>
+    <link rel="https://api.w.org/" href="https://cedulaprofesionalsep.online/wp-json/" />
+    <link rel="alternate" type="application/json" href="https://cedulaprofesionalsep.online/wp-json/wp/v2/pages/14" />
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cedulaprofesionalsep.online/wp-includes/wlwmanifest.xml" />
+    <link rel="shortlink" href="https://cedulaprofesionalsep.online/" />
+    <meta name="msvalidate.01" content="821EECE4E185AC3D197BD89858D4100A" />
+    <meta name="google-site-verification" content="3sS0YW6RDLkRKwA6J8jSlVVqa1hMrCuuIztxpg5J7u4" />
+    <script data-no-minify="1" async="" src="https://cedulaprofesionalsep.online/wp-content/cache/busting/1/gtm-b6a6efff96ef286cddd0ee06a443a91d.js"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-1682635-17');
+    </script>
+    <script data-ad-client="ca-pub-2430598187539609" async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <meta name="google-site-verification" content="WuBoz2BGc5pY8MFBVzieSTvPSuldFGLiecjJg9sK0l0" />
+    <style type="text/css">
+        div#toc_container {
+            background: #f7de58;
+            border: 1px solid #aaa
+        }
+    </style>
+    <link rel="icon" href="https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/ICONO-CEDULA-PROFESIONAL-ONLINE-100x100.png" sizes="32x32" />
+    <link rel="icon" href="https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/ICONO-CEDULA-PROFESIONAL-ONLINE-300x300.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/ICONO-CEDULA-PROFESIONAL-ONLINE-300x300.png" />
+    <meta name="msapplication-TileImage" content="https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/ICONO-CEDULA-PROFESIONAL-ONLINE-300x300.png" />
+    <style id="wp-custom-css">
+        .gsc-input td {
+            border: 0px !important
+        }
+
+        .gsc-input table {
+            margin: 0
+        }
+
+        .gsc-search-button {
+            border: 0 solid rgba(0, 0, 0, .1)
+        }
+
+        .gsc-input {
+            border: 0 solid rgba(0, 0, 0, .1)
+        }
+
+        .gsc-results {
+            text-align: left
+        }
+    </style><noscript>
+        <style id="rocket-lazyload-nojs-css">
+            .rll-youtube-player,
+            [data-lazy-src] {
+                display: none !important
+            }
+        </style>
+    </noscript>
+    <script>
+        /*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
+        (function(w) {
+            "use strict";
+            if (!w.loadCSS) {
+                w.loadCSS = function() {}
+            }
+            var rp = loadCSS.relpreload = {};
+            rp.support = (function() {
+                var ret;
+                try {
+                    ret = w.document.createElement("link").relList.supports("preload")
+                } catch (e) {
+                    ret = !1
+                }
+                return function() {
+                    return ret
+                }
+            })();
+            rp.bindMediaToggle = function(link) {
+                var finalMedia = link.media || "all";
+
+                function enableStylesheet() {
+                    link.media = finalMedia
+                }
+                if (link.addEventListener) {
+                    link.addEventListener("load", enableStylesheet)
+                } else if (link.attachEvent) {
+                    link.attachEvent("onload", enableStylesheet)
+                }
+                setTimeout(function() {
+                    link.rel = "stylesheet";
+                    link.media = "only x"
+                });
+                setTimeout(enableStylesheet, 3000)
+            };
+            rp.poly = function() {
+                if (rp.support()) {
+                    return
+                }
+                var links = w.document.getElementsByTagName("link");
+                for (var i = 0; i < links.length; i++) {
+                    var link = links[i];
+                    if (link.rel === "preload" && link.getAttribute("as") === "style" && !link.getAttribute("data-loadcss")) {
+                        link.setAttribute("data-loadcss", !0);
+                        rp.bindMediaToggle(link)
+                    }
+                }
+            };
+            if (!rp.support()) {
+                rp.poly();
+                var run = w.setInterval(rp.poly, 500);
+                if (w.addEventListener) {
+                    w.addEventListener("load", function() {
+                        rp.poly();
+                        w.clearInterval(run)
+                    })
+                } else if (w.attachEvent) {
+                    w.attachEvent("onload", function() {
+                        rp.poly();
+                        w.clearInterval(run)
+                    })
+                }
+            }
+            if (typeof exports !== "undefined") {
+                exports.loadCSS = loadCSS
+            } else {
+                w.loadCSS = loadCSS
+            }
+        }(typeof global !== "undefined" ? global : this))
+    </script>
+</head>
+
+<body data-rsssl="1" class="home page-template-default page page-id-14 wp-custom-logo wp-embed-responsive post-image-below-header post-image-aligned-center sticky-menu-fade no-sidebar nav-above-header separate-containers fluid-header active-footer-widgets-3 nav-aligned-left header-aligned-center dropdown-hover" itemtype="https://schema.org/WebPage" itemscope=""> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Saltar al contenido">Saltar al contenido</a>
+    <div class="top-bar top-bar-align-right">
+        <div class="inside-top-bar grid-container grid-parent">
+            <aside id="block-20" class="widget inner-padding widget_block">
+                <div class="gcse-searchbox"></div>
+            </aside>
+        </div>
+    </div>
+    <nav class="main-navigation sub-menu-right" id="site-navigation" aria-label="Principal" itemtype="https://schema.org/SiteNavigationElement" itemscope="">
+        <div class="inside-navigation grid-container grid-parent"> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"> <span class="mobile-menu">Menú</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-menu-1" class=" menu sf-menu">
+                    <li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-14 current_page_item menu-item-has-children menu-item-87"><a href="https://cedulaprofesionalsep.online/" aria-current="page">Consulta tu cédula profesional electrónica<span role="presentation" class="dropdown-menu-toggle"></span></a>
+                        <ul class="sub-menu">
+                            <li id="menu-item-209189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-209189"><a href="https://cedulaprofesionalsep.online/que-es-una-cedula-tipo-c1/">Qué es una cédula tipo C1</a></li>
+                        </ul>
+                    </li>
+                    <li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-89"><a href="https://cedulaprofesionalsep.online/tramitar-cedula/">Tramitar cédula<span role="presentation" class="dropdown-menu-toggle"></span></a>
+                        <ul class="sub-menu">
+                            <li id="menu-item-224154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224154"><a href="https://cedulaprofesionalsep.online/tramitar-cedula/como-tramitar-la-cedula-profesional-estatal-diferencia-con-la-cedula-profesional-federal/">Como tramitar la cédula profesional Estatal. Diferencia con la cédula profesional Federal</a></li>
+                            <li id="menu-item-203261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-203261"><a href="https://cedulaprofesionalsep.online/como-tramitar-la-cedula-provisional/">Como tramitar la Cedula provisional</a></li>
+                        </ul>
+                    </li>
+                    <li id="menu-item-164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-164"><a href="https://cedulaprofesionalsep.online/reposicion-de-cedula-profesional/">Reposición de cédula profesional</a></li>
+                    <li id="menu-item-130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130"><a href="https://cedulaprofesionalsep.online/solicitar-cita-sep/">Citas SEP</a></li>
+                    <li id="menu-item-224318" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-224318"><a href="https://cedulaprofesionalsep.online/cedula-estatal/">Cédula Estatal<span role="presentation" class="dropdown-menu-toggle"></span></a>
+                        <ul class="sub-menu">
+                            <li id="menu-item-224319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224319"><a href="https://cedulaprofesionalsep.online/cedula-estatal-en-baja-california/">Cédula estatal en Baja California</a></li>
+                            <li id="menu-item-224979" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-224979"><a href="https://cedulaprofesionalsep.online/cedula-estatal-en-chihuahua/">Cédula estatal en Chihuahua</a></li>
+                            <li id="menu-item-225970" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-225970"><a href="https://cedulaprofesionalsep.online/cedula-estatal-en-guanajuato/">Cédula estatal en Guanajuato</a></li>
+                            <li id="menu-item-225971" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-225971"><a href="https://cedulaprofesionalsep.online/cedula-estatal-en-hidalgo/">Cédula estatal en Hidalgo</a></li>
+                            <li id="menu-item-226649" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-226649"><a href="https://cedulaprofesionalsep.online/cedula-estatal-en-jalisco/">Cédula estatal en Jalisco</a></li>
+                            <li id="menu-item-230848" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-230848"><a href="https://cedulaprofesionalsep.online/cedula-estatal-en-puebla/">Cédula estatal en Puebla</a></li>
+                            <li id="menu-item-230998" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-230998"><a href="https://cedulaprofesionalsep.online/cedula-estatal-en-queretaro/">Cédula estatal en Querétaro</a></li>
+                            <li id="menu-item-231081" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-231081"><a href="https://cedulaprofesionalsep.online/cedula-estatal-en-sonora/">Cédula estatal en Sonora</a></li>
+                        </ul>
+                    </li>
+                    <li id="menu-item-230795" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-230795"><a href="https://cedulaprofesionalsep.online/cedula-universitaria/">Cédula Universitaria<span role="presentation" class="dropdown-menu-toggle"></span></a>
+                        <ul class="sub-menu">
+                            <li id="menu-item-230796" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-230796"><a href="https://cedulaprofesionalsep.online/cedula-unam-requisitos-y-costos/">Cédula UNAM: requisitos y costos</a></li>
+                            <li id="menu-item-231493" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-231493"><a href="https://cedulaprofesionalsep.online/cedula-udg-requisitos-y-costos/">Cédula UDG: requisitos y costos</a></li>
+                            <li id="menu-item-231574" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-231574"><a href="https://cedulaprofesionalsep.online/cedula-uanl/">Cédula UANL</a></li>
+                        </ul>
+                    </li>
+                    <li id="menu-item-88" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a href="https://cedulaprofesionalsep.online/ultimas-noticias/">Últimas noticias</a></li>
+                    <li id="menu-item-213673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-213673"><a href="https://cedulaprofesionalsep.online/glosario/">Glosario</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <header class="site-header" id="masthead" aria-label="Sitio" itemtype="https://schema.org/WPHeader" itemscope="">
+        <div class="inside-header">
+            <div class="site-logo"> <a href="https://cedulaprofesionalsep.online/" title="Consultar mi Cédula Profesional Electrónica" rel="home"> <img loading="lazy" class="header-image is-logo-image lazyloaded" alt="Consultar mi Cédula Profesional Electrónica" src="https://cedulaprofesionalsep.online/wp-content/uploads/2022/02/Consultar-mi-Cedula-Profesional-Electronica-Tramitar-en-linea.jpg" title="Consultar mi Cédula Profesional Electrónica" data-lazy-src="https://cedulaprofesionalsep.online/wp-content/uploads/2022/02/Consultar-mi-Cedula-Profesional-Electronica-Tramitar-en-linea.jpg" data-was-processed="true" /><noscript><img class="header-image is-logo-image" alt="Consultar mi Cédula Profesional Electrónica" src="https://cedulaprofesionalsep.online/wp-content/uploads/2022/02/Consultar-mi-Cedula-Profesional-Electronica-Tramitar-en-linea.jpg" title="Consultar mi Cédula Profesional Electrónica" /></noscript> </a></div>
+        </div>
+    </header>
+    <div class="site grid-container container hfeed grid-parent" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area grid-parent mobile-grid-100 grid-100 tablet-grid-100" id="primary">
+                <main class="site-main" id="main">
+                    <article id="post-14" class="post-14 page type-page status-publish" itemtype="https://schema.org/CreativeWork" itemscope="">
+                        <div class="inside-article">
+                            <header class="entry-header" aria-label="Contenido">
+                                <h1 class="entry-title" itemprop="headline">Consulta tu cédula profesional electrónica</h1>
+                            </header>
+                            <div class="entry-content" itemprop="text">
+                                <div class="adsb30" style=" margin:12px; margin-left:0px; text-align:left"> <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2430598187539609" data-ad-slot="1295114961" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                                    <script>
+                                        (adsbygoogle = window.adsbygoogle || []).push({});
+                                    </script>
+                                </div>
+                                <p>Si posees un <strong>título profesional</strong> y quieres ejercer legalmente, necesitas disponer de tu cédula profesional vigente.</p>
+                                <p>Asimismo, si ya dispones de título profesional en formato papel o plástico y quieres obtenerlo en formato electrónico o digital, ahora puedes realizarlo online, con todas las ventajas que ello te supone al momento de realizar trámites administrativos oficiales gubernamentales.</p>
+                                <p>Las ventajas son múltiples, entre otras, comodidad y facilidad en la tramitación, así como disponer de una copia que puedes tener alojada en tu computadora o usb.</p>
+                                <p>Por otro lado, si has <strong>perdido</strong> tu título de profesionista y quieres <strong>recuperarlo</strong>, puedes solicitar en línea desde aquí, llenando con tus datos personales y/o datos académicos de la institución educativa en que cursaste tus estudios.</p>
+                                <p>A continuación te explico todos los detalles.</p>
+                                <p>Sigue leyendo, o bien:</p>
+                                <div class="su-button-center"><a href="https://cedulaprofesionalsep.online/#Consulta_de_Cedula_Profesional" class="su-button su-button-style-default" style="color:#FFFFFF;background-color:#d13954;border-color:#a82e44;border-radius:14px;-moz-border-radius:14px;-webkit-border-radius:14px" target="_self"><span style="color:#FFFFFF;padding:0px 34px;font-size:25px;line-height:50px;border-color:#df7588;border-radius:14px;-moz-border-radius:14px;-webkit-border-radius:14px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"> CONSULTA DE CÉDULA PROFESIONAL</span></a></div>
+                                <p> </p>
+                                <h2><span id="Que_es_una_Cedula_Profesional"><strong>
+                                            <div class="tds-message-box box-note ">¿Qué es una Cédula Profesional?</div>
+                                        </strong></span></h2>
+                                <pre><a href="https://cedulaprofesionalsep.online/wp-content/uploads/2021/01/tramite-cedula-profesional-electronica.jpg"><img loading="lazy" class="aligncenter wp-image-116 size-full lazyloaded" src="https://cedulaprofesionalsep.online/wp-content/uploads/2021/01/tramite-cedula-profesional-electronica.jpg" alt="cedula-profesional-electronica" width="660" height="350" data-lazy-srcset="https://cedulaprofesionalsep.online/wp-content/uploads/2021/01/tramite-cedula-profesional-electronica.jpg 660w, https://cedulaprofesionalsep.online/wp-content/uploads/2021/01/tramite-cedula-profesional-electronica-300x159.jpg 300w" data-lazy-sizes="(max-width: 660px) 100vw, 660px" data-lazy-src="https://cedulaprofesionalsep.online/wp-content/uploads/2021/01/tramite-cedula-profesional-electronica.jpg" sizes="(max-width: 660px) 100vw, 660px" srcset="https://cedulaprofesionalsep.online/wp-content/uploads/2021/01/tramite-cedula-profesional-electronica.jpg 660w, https://cedulaprofesionalsep.online/wp-content/uploads/2021/01/tramite-cedula-profesional-electronica-300x159.jpg 300w" data-was-processed="true" /><noscript><img class="aligncenter wp-image-116 size-full" src="https://cedulaprofesionalsep.online/wp-content/uploads/2021/01/tramite-cedula-profesional-electronica.jpg" alt="cedula-profesional-electronica" width="660" height="350" srcset="https://cedulaprofesionalsep.online/wp-content/uploads/2021/01/tramite-cedula-profesional-electronica.jpg 660w, https://cedulaprofesionalsep.online/wp-content/uploads/2021/01/tramite-cedula-profesional-electronica-300x159.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /></noscript></a></pre>
+                                <p>Es una autorización que te permite ejercer profesionalmente.</p>
+                                <p>Para obtenerla de forma oficial <strong>en línea</strong>, revisa si tu título fue expedido <strong>a partir del 1º de octubre del 2018</strong> y <a href="https://siurp.sep.gob.mx/mvc/consultaInstituciones" target="_blank" rel="noopener">consulta si tu institución educativa ya emite títulos electrónicos.</a></p>
+                                <p>Si tu institución aún no lo está realizando, acércate personalmente a ella y solicítale que participe en este proceso para la emisión de Cédulas Profesionales en línea.</p>
+                                <p>Como te comentaba, en caso de que el título haya sido expedido <strong>antes del 1º de octubre del 2018</strong> obtén tu Cédula Profesional de manera presencial en las instalaciones de la Dirección General de Profesiones.</p>
+                                <div class="su-button-center"><a href="https://cedulaprofesionalsep.online/#Requisitos_para_obtener_la_Cedula_Profesional" class="su-button su-button-style-default" style="color:#FFFFFF;background-color:#d13954;border-color:#a82e44;border-radius:14px;-moz-border-radius:14px;-webkit-border-radius:14px" target="_self"><span style="color:#FFFFFF;padding:0px 34px;font-size:25px;line-height:50px;border-color:#df7588;border-radius:14px;-moz-border-radius:14px;-webkit-border-radius:14px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"> VER LOS REQUISITOS</span></a></div>
+                                <p> </p>
+                                <div class="su-button-center"><a href="https://cedulaprofesionalsep.online/#Consulta_de_Cedula_Profesional" class="su-button su-button-style-default" style="color:#FFFFFF;background-color:#d13954;border-color:#a82e44;border-radius:14px;-moz-border-radius:14px;-webkit-border-radius:14px" target="_self"><span style="color:#FFFFFF;padding:0px 34px;font-size:25px;line-height:50px;border-color:#df7588;border-radius:14px;-moz-border-radius:14px;-webkit-border-radius:14px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"> DESCARGAR CÉDULA PROFESIONAL</span></a></div>
+                                <h2></h2>
+                                <h2><span id="Tipos_de_Cedula"><strong>
+                                            <div class="tds-message-box box-note ">Tipos de Cédula</div>
+                                        </strong></span></h2>
+                                <p>Debes conocer el tipo de cédula que debes solicitar, ya cada una responde a una<strong> serie de condiciones</strong>, en concreto a tu estatus académico.</p>
+                                <p>Te informo de que existen <strong>dos tipos de cédulas profesionales</strong>, las cuales<strong> avalan tu título académico, </strong>y que son distintas según el nivel de estudios alcanzados.</p>
+                                <ul>
+                                    <li>En primer lugar, tenemos las <strong>cédulas de tipo A1, </strong>las cuales se expiden únicamente para las personas que además de tener una carrera profesional, también cuenten con una especialidad que esté relacionada con la profesión que ejercen o para la cual se han capacitado.</li>
+                                    <li>Por otro lado, están las<strong> cédulas denominadas <a href="https://cedulaprofesionalsep.online/que-es-una-cedula-tipo-c1/" target="_blank" rel="noopener" data-schema-attribute=""><span style="color: #0000ff;">tipos C1</span></a></strong>. Estas se expiden exclusivamente para los profesionales que cuentan con una Licenciatura, Maestría, Doctorado y asimismo son expedidas para los Técnicos o TSU.</li>
+                                </ul>
+                                <div class="su-button-center"><a href="https://cedulaprofesionalsep.online/#Conoce_la_nueva_cedula_profesional_electronica" class="su-button su-button-style-default" style="color:#FFFFFF;background-color:#d13954;border-color:#a82e44;border-radius:14px;-moz-border-radius:14px;-webkit-border-radius:14px" target="_self"><span style="color:#FFFFFF;padding:0px 34px;font-size:25px;line-height:50px;border-color:#df7588;border-radius:14px;-moz-border-radius:14px;-webkit-border-radius:14px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"> VER EJEMPLOS</span></a></div>
+                                <h2></h2>
+                                <h2><span id="Consulta_de_Cedula_Profesional"><strong>
+                                            <div class="ads-color-box" style="color:#b81a1a;background:#eee;">Consulta de Cedula Profesional</div>
+                                        </strong></span></h2>
+                                <p><a href="https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/logo-cedula-profesional-sep.jpg"><img loading="lazy" class="aligncenter size-large wp-image-211420 lazyloaded" src="https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/logo-cedula-profesional-sep-1024x306.jpg" alt="logo-cedula-profesional-sep" width="1024" height="306" data-lazy-srcset="https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/logo-cedula-profesional-sep-1024x306.jpg 1024w, https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/logo-cedula-profesional-sep-300x90.jpg 300w, https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/logo-cedula-profesional-sep-768x230.jpg 768w, https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/logo-cedula-profesional-sep-1536x460.jpg 1536w, https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/logo-cedula-profesional-sep.jpg 1885w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/logo-cedula-profesional-sep-1024x306.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/logo-cedula-profesional-sep-1024x306.jpg 1024w, https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/logo-cedula-profesional-sep-300x90.jpg 300w, https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/logo-cedula-profesional-sep-768x230.jpg 768w, https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/logo-cedula-profesional-sep-1536x460.jpg 1536w, https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/logo-cedula-profesional-sep.jpg 1885w" data-was-processed="true" /><noscript><img loading="lazy" class="aligncenter size-large wp-image-211420" src="https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/logo-cedula-profesional-sep-1024x306.jpg" alt="logo-cedula-profesional-sep" width="1024" height="306" srcset="https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/logo-cedula-profesional-sep-1024x306.jpg 1024w, https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/logo-cedula-profesional-sep-300x90.jpg 300w, https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/logo-cedula-profesional-sep-768x230.jpg 768w, https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/logo-cedula-profesional-sep-1536x460.jpg 1536w, https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/logo-cedula-profesional-sep.jpg 1885w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript><br /> </a></p>
+                                <p>Si necesitas revisar, buscar o verificar la cédula profesional, puedes realizarlo desde este formulario de consulta.</p>
+                                <p>Tienes 2 opciones distintas, puedes consultar la cédula profesional por nombre y apellidos, o bien, consultar por número de cédula.</p>
+                                <div class="ads-quote-center "><span>Checar y verificar Cédula Profesional</span></div>
+                                <div class="container mt-3">
+                                    <div class="row">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div class="tab-content">
+                                                    <div id="home" class="container tab-pane active">
+                                                        <h3><span id="Datos_de_consulta"><span style="color: #000000;"><strong>
+                                                                        <div class="ads-color-box" style="color:#444;background:#b31212;"><span style="color: #ffffff;">Datos de consulta</span></div>
+                                                                    </strong></span></span></h3>
+                                                        <hr />
+                                                        <div id="cedula-plugin-mx">
+                                                            <div class="cedula-container" id="search-forms">
+                                                                <div class="text-center mb-4 mt-4 search-cedula-container-title py-2">
+                                                                    <h2><span id="Consulta_tu_cedula_profesional_electronica">Consulta tu cédula profesional electrónica</span></h2>
+                                                                </div>
+                                                                <div class="cedula-row">
+                                                                    <div class="cedula-col-100-width m-auto text-center"> <input class="radio_search" type="radio" name="tipobusqueda" value="nombre" id="" checked="" /> <label class="form-check-label" for=""> Por Nombre </label> <input class="radio_search" type="radio" name="tipobusqueda" value="cedula" id="" /> <label class="form-check-label" for=""> Por Número de Cédula </label></div>
+                                                                </div>
+                                                                <div class="" id="container-form-1">
+                                                                    <form action="test.php" method="POST">
+                                                                        <div class="cedula-row cedula-mtop">
+                                                                            <div class="cedula-col-label"> <label for="">Nombre</label></div>
+                                                                            <div class="cedula-col-input"><input type="text" class="w-100 cedula-input-text" name="nombre" id="input-nombre" /></div>
+                                                                        </div>
+                                                                        <div class="cedula-row cedula-mtop">
+                                                                            <div class="cedula-col-label"> <label for="">Apellido Paterno</label></div>
+                                                                            <div class="cedula-col-input"> <input type="text" class="w-100 cedula-input-text" name="apaterno" id="input-apaterno" /></div>
+                                                                        </div>
+                                                                        <div class="cedula-row cedula-mtop">
+                                                                            <div class="cedula-col-label"> <label for="">Apellido Materno</label></div>
+                                                                            <div class="cedula-col-input"> <input type="text" class="w-100 cedula-input-text" name="amaterno" id="input-amaterno" /></div>
+                                                                        </div>
+                                                                        <div class="cedula-row">
+                                                                            <div class="cedula-col-100-width text-center"> <input type="submit" value="Buscar" class="cedula-mtop w-100 btn-submit" /></div>
+                                                                        </div>
+                                                                    </form>
+                                                                </div>
+                                                                <div class="d-none" id="container-form-2">
+                                                                    <form action="test2.php" method="POST">
+                                                                        <div class="cedula-row cedula-mtop">
+                                                                            <div class="cedula-col-label"> <label for="">Cédula Número</label></div>
+                                                                            <div class="cedula-col-input"> <input type="text" class="w-100 cedula-input-text" name="cedula" id="input-cedula" /></div>
+                                                                        </div>
+                                                                        <div class="cedula-row">
+                                                                            <div class="cedula-col-100-width text-center"> <input type="submit" value="Buscar" class="cedula-mtop w-100 btn-submit" /></div>
+                                                                        </div>
+                                                                    </form>
+                                                                </div>
+                                                            </div>
+                                                            <div class="container d-none" id="table-result">
+                                                                <table class="table">
+                                                                    <thead>
+                                                                        <tr>
+                                                                            <th scope="col">#</th>
+                                                                            <th scope="col">Cédula</th>
+                                                                            <th scope="col">Nombre</th>
+                                                                            <th scope="col">Detalle</th>
+                                                                        </tr>
+                                                                    </thead>
+                                                                    <tbody id="result_table_row"></tbody>
+                                                                </table>
+                                                            </div>
+                                                            <div class="container d-none  position-relative" id="table-result_cedula">
+                                                                <div class="position-absolute" id="cerrar_resut_personal">
+                                                                    <p>Cerrar</p>
+                                                                </div>
+                                                                <div class="cedula-row cedula-mtop">
+                                                                    <div class="cedula-col-100-width"> <label for="">Cédula</label>321111</div>
+                                                                    <div class="cedula-col-100-width"><input type="text" class="w-100 cedula-input-text"albwr id="input-cedula-result" disabled="" /></div>
+                                                                    <div class="cedula-col-100-width"> <label for="">Tipo Cédula</label></div>
+                                                                    <div class="cedula-col-100-width"><input type="text" class="w-100 cedula-input-text" id="input-tipo-result"252512 disabled="" /></div>
+                                                                    <div class="cedula-col-100-width"> <label for="">Sexo</label></div>
+                                                                    <div class="cedula-col-100-width"><input type="text" class="w-100 cedula-input-text" id="input-sexo-result"hombre disabled="" /></div>
+                                                                    <div class="cedula-col-100-width"> <label for="">Nombre</label>rodolfo alberto </div>
+                                                                    <div class="cedula-col-100-width"><input type="text" class="w-100 cedula-input-text" id="input-nombre-result" disabled="" /></div>
+                                                                    <div class="cedula-col-100-width"> <label for="">Paterno</label>lopez</div>
+                                                                    <div class="cedula-col-100-width"><input type="text" class="w-100 cedula-input-text" id="input-paterno-result"loder disabled="" /></div>
+                                                                    <div class="cedula-col-100-width"> <label for="">Materno</label>perez</div>
+                                                                    <div class="cedula-col-100-width"><input type="text" class="w-100 cedula-input-text" id="input-materno-result"sacadisabled="" /></div>
+                                                                    <div class="cedula-col-100-width"> <label for="">Escuela</label>cancun</div>
+                                                                    <div class="cedula-col-100-width"><input type="text" class="w-100 cedula-input-text" id="input-escuela-result"cancun disabled="" /></div>
+                                                                    <div class="cedula-col-100-width"> <label for="">Titulo</label>adminstracion</div>
+                                                                    <div class="cedula-col-100-width"><input type="text" class="w-100 cedula-input-text" id="input-titulo-result" disabled="amade" /></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <hr />
+                                                        <pre class="container"><span style="font-size: 8pt;">*Tus datos personales no se almacenan en el servidor.</span>
+<span style="font-size: 8pt;">Lee nuestra <a href="https://cedulaprofesionalsep.online/politica-de-privacidad-de-datos/" target="_blank" rel="nofollow noopener" data-schema-attribute="">Política de Privacidad de Datos</a></span></pre>
+                                                    </div>
+                                                   
+                                                    <div id="menu1" class="container tab-pane fade">
+                                                        <p><strong style="color: #008000;">Quizás te pueda interesar también:</strong></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="pt-cv-wrapper">
+                                    <div class="pt-cv-view pt-cv-scrollable pt-cv-colsys" id="pt-cv-view-1c1572cxy3">
+                                        <div data-id="pt-cv-page-1" class="pt-cv-page" data-cvc="3">
+                                            <div id="f1256f9uwp" class="pt-cv-carousel pt-cv-slide" data-ride="cvcarousel" data-interval="5000">
+                                                <ol class="pt-cv-carousel-indicators">
+                                                    <li data-target="#f1256f9uwp" data-cvslide-to="0" class="active"></li>
+                                                    <li data-target="#f1256f9uwp" data-cvslide-to="1" class=""></li>
+                                                </ol>
+                                                <div class="carousel-inner">
+                                                    <div class="item active">
+                                                        <div class="row">
+                                                            <div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col" data-pid="298"><a href="https://cedulaprofesionalsep.online/como-consultar-la-cedula-profesional-de-tu-doctor/" class="_self pt-cv-href-thumbnail pt-cv-thumb-default cvplbd" target="_self"><img width="460" height="260" src="https://cedulaprofesionalsep.online/wp-content/uploads/2021/02/ifai-prodatos-mexico-460x260.jpg" class="pt-cv-thumbnail img-none lazyloading" alt="ifai prodatos mexico consulta" loading="lazy" data-lazy-srcset="https://cedulaprofesionalsep.online/wp-content/uploads/2021/02/ifai-prodatos-mexico-460x260.jpg" data-lazy-sizes="(max-width: 343px) 100vw, 343px" data-lazy-src="https://cedulaprofesionalsep.online/wp-content/uploads/2021/02/ifai-prodatos-mexico-460x260.jpg" sizes="(max-width: 343px) 100vw, 343px" srcset="https://cedulaprofesionalsep.online/wp-content/uploads/2021/02/ifai-prodatos-mexico-460x260.jpg" data-was-processed="true" /><noscript><img width="460" height="260" src="https://cedulaprofesionalsep.online/wp-content/uploads/2021/02/ifai-prodatos-mexico-460x260.jpg" class="pt-cv-thumbnail img-none" alt="ifai prodatos mexico consulta" loading="lazy" srcset="https://cedulaprofesionalsep.online/wp-content/uploads/2021/02/ifai-prodatos-mexico-460x260.jpg" sizes="(max-width: 343px) 100vw, 343px" /></noscript></a>
+                                                                <div class="pt-cv-carousel-caption pt-cv-cap-w-img">
+                                                                    <div class="pt-cv-title"><a href="https://cedulaprofesionalsep.online/como-consultar-la-cedula-profesional-de-tu-doctor/" class="_self cvplbd" target="_self">Cómo consultar la cédula profesional de tu doctor </a></div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col" data-pid="78"><a href="https://cedulaprofesionalsep.online/tramitar-cedula/" class="_self pt-cv-href-thumbnail pt-cv-thumb-default cvplbd" target="_self"><img width="460" height="260" src="https://cedulaprofesionalsep.online/wp-content/uploads/2020/12/logo-cedula-profesional-sep-460x260.jpg" class="pt-cv-thumbnail img-none lazyloading" alt="cedula profesional sep" loading="lazy" data-lazy-srcset="https://cedulaprofesionalsep.online/wp-content/uploads/2020/12/logo-cedula-profesional-sep-460x260.jpg" data-lazy-sizes="(max-width: 460px) 100vw, 460px" data-lazy-src="https://cedulaprofesionalsep.online/wp-content/uploads/2020/12/logo-cedula-profesional-sep-460x260.jpg" sizes="(max-width: 460px) 100vw, 460px" srcset="https://cedulaprofesionalsep.online/wp-content/uploads/2020/12/logo-cedula-profesional-sep-460x260.jpg" data-was-processed="true" /><noscript><img width="460" height="260" src="https://cedulaprofesionalsep.online/wp-content/uploads/2020/12/logo-cedula-profesional-sep-460x260.jpg" class="pt-cv-thumbnail img-none" alt="cedula profesional sep" loading="lazy" srcset="https://cedulaprofesionalsep.online/wp-content/uploads/2020/12/logo-cedula-profesional-sep-460x260.jpg" sizes="(max-width: 460px) 100vw, 460px" /></noscript></a>
+                                                                <div class="pt-cv-carousel-caption pt-cv-cap-w-img">
+                                                                    <div class="pt-cv-title"><a href="https://cedulaprofesionalsep.online/tramitar-cedula/" class="_self cvplbd" target="_self">Tramitar cédula</a></div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col" data-pid="203220"><a href="https://cedulaprofesionalsep.online/como-tramitar-la-cedula-provisional/cedula-provisional-sep/#main" class="_self pt-cv-href-thumbnail pt-cv-thumb-default cvplbd" target="_self"><img width="460" height="260" src="https://cedulaprofesionalsep.online/wp-content/uploads/2021/12/cedula-provisional-sep-460x260.jpg" class="pt-cv-thumbnail img-none lazyloading" alt="cedula provisional sep" loading="lazy" data-lazy-srcset="https://cedulaprofesionalsep.online/wp-content/uploads/2021/12/cedula-provisional-sep-460x260.jpg" data-lazy-sizes="(max-width: 447px) 100vw, 447px" data-lazy-src="https://cedulaprofesionalsep.online/wp-content/uploads/2021/12/cedula-provisional-sep-460x260.jpg" sizes="(max-width: 447px) 100vw, 447px" srcset="https://cedulaprofesionalsep.online/wp-content/uploads/2021/12/cedula-provisional-sep-460x260.jpg" data-was-processed="true" /><noscript><img width="460" height="260" src="https://cedulaprofesionalsep.online/wp-content/uploads/2021/12/cedula-provisional-sep-460x260.jpg" class="pt-cv-thumbnail img-none" alt="cedula provisional sep" loading="lazy" srcset="https://cedulaprofesionalsep.online/wp-content/uploads/2021/12/cedula-provisional-sep-460x260.jpg" sizes="(max-width: 447px) 100vw, 447px" /></noscript></a>
+                                                                <div class="pt-cv-carousel-caption pt-cv-cap-w-img">
+                                                                    <div class="pt-cv-title"><a href="https://cedulaprofesionalsep.online/como-tramitar-la-cedula-provisional/cedula-provisional-sep/#main" class="_self cvplbd" target="_self">cedula provisional sep</a></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="item">
+                                                        <div class="row">
+                                                            <div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col" data-pid="208932"><a href="https://cedulaprofesionalsep.online/que-es-una-cedula-tipo-c1/" class="_self pt-cv-href-thumbnail pt-cv-thumb-default cvplbd" target="_self"><img width="460" height="260" src="https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/Que-es-una-cedula-profesional-tipo-C1-460x260.jpg" class="pt-cv-thumbnail img-none lazyloading" alt="Qué es una cédula profesional tipo C1" loading="lazy" data-lazy-srcset="https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/Que-es-una-cedula-profesional-tipo-C1-460x260.jpg" data-lazy-sizes="(max-width: 433px) 100vw, 433px" data-lazy-src="https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/Que-es-una-cedula-profesional-tipo-C1-460x260.jpg" sizes="(max-width: 433px) 100vw, 433px" srcset="https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/Que-es-una-cedula-profesional-tipo-C1-460x260.jpg" data-was-processed="true" /><noscript><img width="460" height="260" src="https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/Que-es-una-cedula-profesional-tipo-C1-460x260.jpg" class="pt-cv-thumbnail img-none" alt="Qué es una cédula profesional tipo C1" loading="lazy" srcset="https://cedulaprofesionalsep.online/wp-content/uploads/2022/01/Que-es-una-cedula-profesional-tipo-C1-460x260.jpg" sizes="(max-width: 433px) 100vw, 433px" /></noscript></a>
+                                                                <div class="pt-cv-carousel-caption pt-cv-cap-w-img">
+                                                                    <div class="pt-cv-title"><a href="https://cedulaprofesionalsep.online/que-es-una-cedula-tipo-c1/" class="_self cvplbd" target="_self">Qué es una cédula tipo C1</a></div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col" data-pid="143"><a href="https://cedulaprofesionalsep.online/reposicion-de-cedula-profesional/" class="_self pt-cv-href-thumbnail pt-cv-thumb-default cvplbd" target="_self"><img width="460" height="260" src="https://cedulaprofesionalsep.online/wp-content/uploads/2021/01/Tramite-cedula-profesional-en-linea-e1645704755760-460x260.jpg" class="p
